@@ -1,0 +1,35 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "/Users/tizilogic/code/metalgigashaderrepro/Kinc/Sources",
+                "/Users/tizilogic/code/metalgigashaderrepro/Kinc/Backends/System/Apple/Sources",
+                "/Users/tizilogic/code/metalgigashaderrepro/Kinc/Backends/System/macOS/Sources",
+                "/Users/tizilogic/code/metalgigashaderrepro/Kinc/Backends/System/POSIX/Sources",
+                "/Users/tizilogic/code/metalgigashaderrepro/Kinc/Backends/Graphics5/Metal/Sources",
+                "/Users/tizilogic/code/metalgigashaderrepro/Kinc/Backends/Graphics4/G4onG5/Sources"
+            ],
+            "defines": [
+                "KORE_G1",
+                "KORE_G2",
+                "KORE_G3",
+                "KORE_A1",
+                "KORE_A2",
+                "KORE_LZ4X",
+                "KORE_METAL",
+                "KORE_G4",
+                "KORE_G5",
+                "KORE_G4ONG5"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "",
+            "cppStandard": "",
+            "intelliSenseMode": "${default}",
+            "macFrameworkPath": [
+                "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"
+            ]
+        }
+    ],
+    "version": 4
+}

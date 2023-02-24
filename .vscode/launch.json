@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"name": "Kinc: Launch",
+			"type": "cppdbg",
+			"request": "launch",
+			"program": "/Users/tizilogic/code/metalgigashaderrepro/build/build/Release/ShaderTest.app/Contents/MacOS/ShaderTest",
+			"cwd": "/Users/tizilogic/code/metalgigashaderrepro/Deployment",
+			"preLaunchTask": "Kinc: Debug Build for macOS",
+			"MIMode": "lldb"
+		}
+	],
+	"compounds": []
+}
